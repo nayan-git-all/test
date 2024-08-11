@@ -1,1 +1,1 @@
-sample ec2 has can be created with terraform 
+sample ec2 can be created with terraform 
