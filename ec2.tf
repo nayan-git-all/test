@@ -4,6 +4,6 @@ resource "aws_instance" "ubuntu" {
   instance_type = "t2.micro"
 
   tags = {
-    Name = "Nilu"
+    Name = "new-server11"
   }
 }
